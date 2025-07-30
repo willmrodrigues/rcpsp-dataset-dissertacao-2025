@@ -56,7 +56,7 @@ A coleta e análise dos dados seguiram o protocolo **PRISMA 2020**, conforme des
 
 Se utilizar ou referenciar este repositório, por favor cite da seguinte forma (ABNT):
 
-> RODRIGUES, W. *rcpsp-dataset-dissertacao-2025*. GitHub, 2025. Disponível em: https://github.com/willmorodrigues/rcpsp-dataset-dissertacao-2025. Acesso em: [colocar data].
+> RODRIGUES, W. *rcpsp-dataset-dissertacao-2025*. GitHub, 2025. Disponível em: https://github.com/willmrodrigues/rcpsp-dataset-dissertacao-2025. Acesso em: [colocar data].
 
 ---
 
